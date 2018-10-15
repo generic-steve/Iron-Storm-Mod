@@ -1,0 +1,8 @@
+package com.generic__steve.IronStorm.proxy;
+
+import net.minecraft.item.Item;
+
+public class CommonProxy 
+{
+	public void registerItemRenderer(Item item, int meta, String id) {}
+	}
